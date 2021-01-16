@@ -16,6 +16,7 @@ export class PokedexComponent implements OnInit {
   pokemons:any = [];
   loaded: boolean = false;
   name: any;
+  
 
   constructor(private http: HttpClient, public dialog: MatDialog) {
     

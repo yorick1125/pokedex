@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pokedex-f0233": {
+      "hosting": {
+        "Pokedex": [
+          "pokedex-f0233"
+        ]
+      }
+    }
+  }
+}
